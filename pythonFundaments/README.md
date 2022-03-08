@@ -1,1 +1,0 @@
-# Aqui encuentras todo el codigo trabajado durante el curso de python basico
