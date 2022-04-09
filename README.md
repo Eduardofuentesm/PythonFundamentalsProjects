@@ -1,5 +1,5 @@
 #Pyhon basics
-###### Oscar Eduardo Fuentes
+###### [Oscar Eduardo Fuentes](http://www.linkedin.com/in/edufmdev/ "Oscar Eduardo Fuentes")
 ------------
 
 
@@ -28,7 +28,7 @@
 > - Primality test
 > - Path
 
-#### Facundo García Martoni - Professor at the House of Platzi
+#### [Facundo García Martoni - Professor at the House of Platzi](http://https://platzi.com/profes/facmartoni/ "Facundo García Martoni - Professor at the House of Platzi")
 ###### Python Expert, Frontend and Backend Engineer, Powerlifter
 
 ------------
